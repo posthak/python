@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-25T16:19:32.610Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="n_Qul3z2wb3ouza3sKOg" version="20.3.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-25T16:20:00.217Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="AspYaL5j7OulREgJ4Xt8" version="20.3.3" type="github" pages="3">
   <diagram id="_gan0D3tpQ5ZMszMg-gJ" name="урок 1 №6">
     <mxGraphModel dx="830" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -240,6 +240,9 @@
         </mxCell>
         <mxCell id="WTF6-RTGV-dOVvt6sVOA-9" value="index &amp;lt;&amp;nbsp;array1?" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="320" y="250" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gQdH0WqZwtUhk-cS90bT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.592;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WTF6-RTGV-dOVvt6sVOA-14" target="WTF6-RTGV-dOVvt6sVOA-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WTF6-RTGV-dOVvt6sVOA-14" value="array2[length] = &amp;nbsp;array1[index]" style="whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="298.75" y="360" width="183.75" height="40" as="geometry" />
