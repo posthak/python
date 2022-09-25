@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-25T16:43:00.559Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="EayZziHWkN2OFtIsFqoM" version="20.3.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-09-25T16:43:33.988Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="99NJn83WRrBsDRFiLEJa" version="20.3.3" type="github" pages="5">
   <diagram id="_gan0D3tpQ5ZMszMg-gJ" name="урок 1 №6">
     <mxGraphModel dx="830" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -352,9 +352,9 @@
           <mxGeometry x="330.63" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q4N4Q6AApDm3nCkeq5yY-14" value="завершение" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="680" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q4N4Q6AApDm3nCkeq5yY-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q4N4Q6AApDm3nCkeq5yY-16" target="q4N4Q6AApDm3nCkeq5yY-14">
+        <mxCell id="QZgJ1ReKRcXcqQb9nQLA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q4N4Q6AApDm3nCkeq5yY-16" target="q4N4Q6AApDm3nCkeq5yY-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q4N4Q6AApDm3nCkeq5yY-16" value="print(avg)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontColor=#000000;" vertex="1" parent="1">
